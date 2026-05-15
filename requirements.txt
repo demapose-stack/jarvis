@@ -1,0 +1,13 @@
+# JARVIS Windows — Gerekli paketler
+google-genai
+SpeechRecognition
+sounddevice
+numpy
+psutil
+Pillow
+requests
+pyttsx3
+pyperclip
+pyautogui
+# Outlook takvim/hatırlatıcı entegrasyonu için (opsiyonel):
+# pywin32
