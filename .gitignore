@@ -1,0 +1,8 @@
+config/api_keys.json
+memory/memory.json
+memory/phone_book.json
+__pycache__/
+*.pyc
+.swift-cache/
+helpers/bin/
+helpers/*.app/
